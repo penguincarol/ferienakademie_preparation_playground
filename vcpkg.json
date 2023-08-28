@@ -1,5 +1,5 @@
 {
-  "name": "game-tests",
+  "name": "sfml-flecs-demo",
   "version-string": "1.0.0",
   "builtin-baseline": "548302b23557b197bd85ff833db6ce810b94290d",
   "dependencies": [
@@ -10,10 +10,6 @@
     {
       "name": "flecs",
       "version>=": "3.2.4"
-    },
-    {
-      "name": "box2d",
-      "version>=": "2.4.1#3"
     }
   ]
 }
