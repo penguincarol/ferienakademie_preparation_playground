@@ -22,10 +22,10 @@ void move_system(flecs::iter it, RectangleShape *rects) {
     }
 }
 
-class Rotating {
+struct Rotating {
 };
 
-class Movable {
+struct Movable {
 };
 
 int main() {
